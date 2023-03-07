@@ -1,0 +1,2 @@
+here we are added one more file to see excute command shell wokrs 
+so we have created new readme file with name of ricky.txt
